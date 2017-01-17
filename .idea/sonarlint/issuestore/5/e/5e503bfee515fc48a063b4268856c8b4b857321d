@@ -1,0 +1,6 @@
+
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¹Œ®É
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Äúàòøÿÿÿÿ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(‘úù˜şÿÿÿÿ
+esquid:S1192"PDefine a constant instead of duplicating this literal "http://example/" 3 times.(¹Œ®É
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”»áùÿÿÿÿ
